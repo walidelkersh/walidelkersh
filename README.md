@@ -42,7 +42,7 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
 
 <div align="center">
   <!-- MATH_START -->
-  <h2 align="center"> $$12 - 21 + 11 = 2$$ </h2>
+  <h2 align="center"> $$12 - 24 + 14 = 2$$ </h2>
   <!-- MATH_END -->
   <img src="euler_graph.png" alt="Dynamic Planar Graph" width="500" />
   
