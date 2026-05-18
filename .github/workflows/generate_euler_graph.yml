@@ -33,4 +33,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md euler_graph.png
           git commit -m "Auto-generated new planar graph [skip ci]" || exit 0
+          git pull --rebase origin main
           git push
