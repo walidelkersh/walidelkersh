@@ -30,8 +30,8 @@
 
 ## 👋 About Me
 - 🌌 **Computational Mathematician & Game Developer** focused on advanced systems, probability, and rigorous logic.
-- 🎰 Developed high-performance **Monte Carlo simulation engines** and Hold & Spin jackpot math models.
-- 🍃 Formalizing graph theory proofs (**Kotzig–Ringel–Rosa Conjecture**) using the **Lean 4** interactive theorem prover.
+- 🎰 Developed high-performance **Monte Carlo simulation engines** and stochastic models to validate game mathematics.
+- 🍃 Formalizing complex **graph theory and combinatorial proofs** using the **Lean 4** interactive theorem prover.
 - 🎓 B.A. in Mathematics & CS Minor from **Wabash College**.
 
 ---
@@ -55,8 +55,8 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
 ---
 
 ## 💻 Featured Systems
-* 🧮 **KRR Conjecture Formal Verification:** Formalizing the Kotzig-Ringel-Rosa (KRR) Conjecture proof by Gnang, E. K. (2022) using the Lean 4 interactive theorem prover.
-* 🎰 **Slot Game Simulation Engine:** Built a Monte Carlo simulation engine in Python and C# running 10,000,000+ spins to validate return-to-player (RTP), hit rate, and volatility for complex slot game mechanics.
+* 🧮 **Formal Proof Verification:** Formalizing complex mathematical theorems and combinatorial conjectures using the Lean 4 interactive theorem prover.
+* 🎰 **Monte Carlo Simulation Engine:** Built a high-performance simulation engine in Python and C# running millions of iterations to validate return-to-player (RTP) convergence, volatility, and statistical correctness.
 
 ---
 
