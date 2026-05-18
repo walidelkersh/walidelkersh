@@ -95,7 +95,7 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
     <tr>
       <td>
         <img height="160" alt="Top Languages"
-          src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=Doublew08&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Doublew08&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
       </td>
     </tr>
   </table>
