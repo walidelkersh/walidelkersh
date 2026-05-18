@@ -44,7 +44,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 # Replace the math equation using regex between HTML comments
 pattern = r"<!-- MATH_START -->.*?<!-- MATH_END -->"
-new_math = f"<!-- MATH_START -->\n  <h2 align=\"center\"> $${V} - {E} + {F} = 2$$ </h2>\n  <!-- MATH_END -->"
+new_math = f"<!-- MATH_START -->\n  <h2 align=\"center\"> $$V - E + F = 2$$ </h2>\n  <h4 align=\"center\"> For the graph below: $${V} - {E} + {F} = 2$$ </h4>\n  <!-- MATH_END -->"
 
 updated_readme = re.sub(pattern, new_math, readme, flags=re.DOTALL)
 

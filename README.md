@@ -42,7 +42,8 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
 
 <div align="center">
   <!-- MATH_START -->
-  <h2 align="center"> $$12 - 24 + 14 = 2$$ </h2>
+  <h2 align="center"> $$V - E + F = 2$$ </h2>
+  <h4 align="center"> For the graph below: $$12 - 15 + 5 = 2$$ </h4>
   <!-- MATH_END -->
   <img src="euler_graph.png" alt="Dynamic Planar Graph" width="500" />
 </div>
