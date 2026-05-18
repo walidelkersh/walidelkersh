@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6366f1&text=Walid%20Kasab&fontAlign=50&fontAlignY=35&fontSize=48&desc=Math%20Enthusiast%20•%20Game%20Developer%20•%20Researcher&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6366f1&text=Walid%20Kasab&fontAlign=50&fontAlignY=35&fontSize=48&desc=Mathematician%20•%20Game%20Developer%20•%20Researcher&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
 </div>
 
 <!-- Social + Counters -->
@@ -29,7 +29,7 @@
 ---
 
 ## 👋 About Me
-- 🔭 **Mathematics Major** & double minor in **CS** and **Film & Digital Media Studies** at **Wabash College**.
+- 🔭 **Mathematics Graduate** & double minor in **CS** and **Film & Digital Media Studies** from **Wabash College**.
 - 🧮 Deep interest in **Combinatorics, Graph Theory, and Theory of Computation**.
 - 🎮 Passionate about **Game Development, Interactive 3D Environments, and Unity**.
 - 🏫 Dedicated to **Academic Mentoring and Calculus Instruction**.
