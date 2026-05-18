@@ -29,7 +29,7 @@
 ---
 
 ## 👋 About Me
-- 🌌 **Computational Mathematician & Systems Developer** focused on advanced algorithms and software systems.
+- 🌌 **Mathematician & Game Developer** focused on advanced algorithms and software systems.
 - 💻 Specialized in **C++, C#, and Python** for scientific computing and backend development.
 - 🧮 Deeply passionate about **probability, graph theory, and mathematical structures**.
 - 🎓 B.A. in Mathematics & CS Minor from **Wabash College**.
