@@ -2,7 +2,7 @@
   <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=2070&auto=format&fit=crop" alt="Mathematical Aesthetic Banner" width="100%" height="450" style="object-fit: cover; border-radius: 10px;" />
 </div>
 
-<h1 align="center">! Moin Moin , I'm Walid Kasab 👋</h1>
+<h1 align="center"> Moin Moin! I'm Walid Kasab 👋</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
