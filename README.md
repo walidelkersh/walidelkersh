@@ -32,7 +32,6 @@
 - 🔭 **Mathematics Graduate** & double minor in **CS** and **Film & Digital Media Studies** from **Wabash College**.
 - 🧮 Deep interest in **Combinatorics, Graph Theory, and Theory of Computation**.
 - 🎮 Passionate about **Game Development, Human-Computer Interaction, and Computer Graphics**.
-- 🏫 Dedicated to **Academic Mentoring and Calculus Instruction**.
 
 ---
 
