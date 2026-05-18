@@ -5,15 +5,9 @@
 
 <!-- Social + Counters -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/walid-kasab/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Doublew08?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Doublew08?style=for-the-badge&color=6366f1&label=Followers">
-  </a>
-  <a href="https://github.com/Doublew08">
-    <img alt="Stars" src="https://img.shields.io/github/stars/Doublew08?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8A2BE2&label=Stars">
-  </a>
+  <a href="https://www.linkedin.com/in/walid-kasab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/Doublew08?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Doublew08?style=for-the-badge&color=6366f1&label=Followers"></a>&nbsp;
+  <a href="https://github.com/Doublew08"><img alt="Stars" src="https://img.shields.io/github/stars/Doublew08?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8A2BE2&label=Stars"></a>&nbsp;
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Doublew08&style=for-the-badge&color=6f42c1">
 </p>
 
