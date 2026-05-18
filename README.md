@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6366f1&text=Walid%20Kasab&fontAlign=50&fontAlignY=35&fontSize=48&desc=Mathematician%20•%20Combinatorial%20Researcher%20•%20Unity%20Developer&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=6366f1&text=Walid%20Kasab&fontAlign=50&fontAlignY=35&fontSize=48&desc=Math%20Enthusiast%20•%20Game%20Developer%20•%20Researcher&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
 </div>
 
 <!-- Social + Counters -->
@@ -20,7 +20,7 @@
 <!-- Animated Typing Tagline -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Combinatorics+%26+Graph+Theory;Stochastic+Modeling+%26+Simulation;Procedural+3D+Environments" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Mathematics+%26+CS;Game+Development+%26+Design;Combinatorics+%26+Graph+Theory" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,9 +30,9 @@
 
 ## 👋 About Me
 - 🔭 **Mathematics Major** & double minor in **CS** and **Film & Digital Media Studies** at **Wabash College**.
-- 🇩🇪 **DAAD RISE Germany Scholar** at Hochschule Kaiserslautern, building virtual 3D cityscapes and procedural terrain generation pipelines in Unity.
-- 🧮 **Published Researcher** in **Combinatorics & Graph Theory** (Budapest Semesters in Mathematics, ADRP 2025).
-- 👨‍🏫 **Calculus Supplemental Instruction Leader** planning and delivering academic workshops at Wabash.
+- 🧮 Deep interest in **Combinatorics, Graph Theory, and Theory of Computation**.
+- 🎮 Passionate about **Game Development, Interactive 3D Environments, and Unity**.
+- 🏫 Dedicated to **Academic Mentoring and Calculus Instruction**.
 
 ---
 
