@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 from scipy.spatial import Delaunay
 import numpy as np
 import random
-import re
 
 # 1. Generate guaranteed planar graph using Delaunay Triangulation
 points = np.random.rand(12, 2) # 12 random vertices
@@ -26,27 +25,18 @@ V = final_graph.number_of_nodes()
 E = final_graph.number_of_edges()
 F = 2 - V + E  # Euler's formula for connected planar graph
 
-# 2. Plotting the Graph (Beautiful dark mode styling)
-fig = plt.figure(figsize=(6, 4), facecolor='none')
-ax = fig.add_axes([0, 0, 1, 1])
+# 2. Plotting the Graph (Beautiful dark mode styling with extra bottom padding)
+fig = plt.figure(figsize=(6, 5), facecolor='none')
+ax = fig.add_axes([0, 0.2, 1, 0.8])
 ax.axis('off')
 
 pos = {i: points[i] for i in range(len(points))}
 nx.draw_networkx_nodes(final_graph, pos, node_color='#36BCF7', node_size=300, edgecolors='white', linewidths=1.5)
 nx.draw_networkx_edges(final_graph, pos, edge_color='#A0ABC0', width=2)
 
+# Render Euler math formulas directly inside the transparent PNG image
+fig.text(0.5, 0.12, "V - E + F = 2", color='#9745f5', fontsize=18, fontweight='bold', ha='center', fontfamily='sans-serif')
+fig.text(0.5, 0.04, f"For the graph above: {V} - {E} + {F} = 2", color='#A0ABC0', fontsize=12, ha='center', fontfamily='sans-serif')
+
 plt.savefig('euler_graph.png', transparent=True, format='png', dpi=150)
 plt.close()
-
-# 3. Update the README.md dynamically
-with open('README.md', 'r', encoding='utf-8') as f:
-    readme = f.read()
-
-# Replace the math equation using regex between HTML comments
-pattern = r"<!-- MATH_START -->.*?<!-- MATH_END -->"
-new_math = f"<!-- MATH_START -->\n  <h2 align=\"center\"> $$V - E + F = 2$$ </h2>\n  <h4 align=\"center\"> For the graph below: $${V} - {E} + {F} = 2$$ </h4>\n  <!-- MATH_END -->"
-
-updated_readme = re.sub(pattern, new_math, readme, flags=re.DOTALL)
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(updated_readme)

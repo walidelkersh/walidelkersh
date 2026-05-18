@@ -2,8 +2,8 @@ name: Generate Euler Graph
 
 on:
   schedule:
-    # Run every 12 hours (at 00:00 and 12:00 UTC)
-    - cron: '0 */12 * * *'
+    # Run every 60 minutes (at the start of every hour)
+    - cron: '0 * * * *'
   workflow_dispatch: # Allows manual trigger from the Actions tab in GitHub UI
 
 jobs:
@@ -27,11 +27,16 @@ jobs:
       - name: Run Graph Generator
         run: python euler_graph.py
           
-      - name: Commit and Push Changes
+      - name: Deploy Live Asset to graph-assets Branch
         run: |
-          git config --local user.email "action@github.com"
+          mkdir deploy
+          cp euler_graph.png deploy/
+          cd deploy
+          git init
           git config --local user.name "GitHub Action"
-          git add README.md euler_graph.png
-          git commit -m "Auto-generated new planar graph [skip ci]" || exit 0
-          git pull --rebase origin main
-          git push
+          git config --local user.email "action@github.com"
+          git checkout -b graph-assets
+          git add euler_graph.png
+          git commit -m "Update live planar graph asset"
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push -f origin graph-assets
