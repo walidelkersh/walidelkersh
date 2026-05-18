@@ -4,6 +4,9 @@ from scipy.spatial import Delaunay
 import numpy as np
 import random
 
+# Enable LaTeX style Computer Modern math fontset in Matplotlib
+plt.rcParams['mathtext.fontset'] = 'cm'
+
 # 1. Generate guaranteed planar graph using Delaunay Triangulation
 points = np.random.rand(12, 2) # 12 random vertices
 tri = Delaunay(points)
@@ -34,9 +37,9 @@ pos = {i: points[i] for i in range(len(points))}
 nx.draw_networkx_nodes(final_graph, pos, node_color='#36BCF7', node_size=300, edgecolors='white', linewidths=1.5)
 nx.draw_networkx_edges(final_graph, pos, edge_color='#A0ABC0', width=2)
 
-# Render Euler math formulas directly inside the transparent PNG image
-fig.text(0.5, 0.12, "V - E + F = 2", color='#9745f5', fontsize=18, fontweight='bold', ha='center', fontfamily='sans-serif')
-fig.text(0.5, 0.04, f"For the graph above: {V} - {E} + {F} = 2", color='#A0ABC0', fontsize=12, ha='center', fontfamily='sans-serif')
+# Render Euler math formulas in the exact same color as nodes (#36BCF7) and styled like a LaTeX document (Computer Modern Math)
+fig.text(0.5, 0.12, r"$V - E + F = 2$", color='#36BCF7', fontsize=22, ha='center')
+fig.text(0.5, 0.04, rf"For the graph above: ${V} - {E} + {F} = 2$", color='#A0ABC0', fontsize=12, ha='center', fontfamily='sans-serif')
 
 plt.savefig('euler_graph.png', transparent=True, format='png', dpi=150)
 plt.close()
