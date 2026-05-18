@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=2070&auto=format&fit=crop" alt="Mathematical Aesthetic Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=2070&auto=format&fit=crop" alt="Mathematical Aesthetic Banner" width="100%" height="450" style="object-fit: cover; border-radius: 10px;" />
 </div>
 
 <h1 align="center">! Moin Moin , I'm Walid Kasab 👋</h1>
@@ -14,7 +14,7 @@
 
 ### 🌌 About Me
 
-[cite_start]I am a mathematician and Game developer.
+I am a mathematician and Game developer.
 
 ### 🧮 The Beauty of Math: Euler's Formula
 
@@ -37,13 +37,13 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
 
 ### 💻 Featured Projects
 
-* [cite_start]**KRR Conjecture Formal Verification:** Formalizing the Kotzig-Ringel-Rosa (KRR) Conjecture proof by Gnang, E. K. (2022) using the Lean 4 interactive theorem prover[cite: 40, 41].
-* [cite_start]**Slot Game Simulation Engine:** Built a Monte Carlo simulation engine in Python and C# running 10,000,000+ spins to validate return-to-player (RTP), hit rate, and volatility for complex slot game mechanics[cite: 42, 43, 45].
+* **KRR Conjecture Formal Verification:** Formalizing the Kotzig-Ringel-Rosa (KRR) Conjecture proof by Gnang, E. K. (2022) using the Lean 4 interactive theorem prover.
+* **Slot Game Simulation Engine:** Built a Monte Carlo simulation engine in Python and C# running 10,000,000+ spins to validate return-to-player (RTP), hit rate, and volatility for complex slot game mechanics.
 
 ### 🛠️ Technical Arsenal
 
-* [cite_start]**Programming:** Python, C#, JavaScript, C++, LaTeX, Mathematica [cite: 69]
-* [cite_start]**Tools & Frameworks:** Lean 4, Unity Engine, TensorFlow, OpenCV, Git, Linux, Excel [cite: 70]
+* **Programming:** Python, C#, JavaScript, C++, LaTeX, Mathematica.
+* **Tools & Frameworks:** Lean 4, Unity Engine, TensorFlow, OpenCV, Git, Linux, Excel.
 
 <br/>
 
