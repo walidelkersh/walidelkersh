@@ -50,15 +50,18 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
 
 ---
 
-## 🛠️ Technical Stack
+## 🧮 Research Interests
 
-<!-- Mathematics & Research Interests -->
 <p align="center">
   <img src="https://img.shields.io/badge/Combinatorics-4f46e5?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Combinatorics"/>&nbsp;
   <img src="https://img.shields.io/badge/Graph_Theory-6366f1?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Graph Theory"/>&nbsp;
   <img src="https://img.shields.io/badge/Stochastic_Modeling-8A2BE2?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Stochastic Modeling"/>&nbsp;
   <img src="https://img.shields.io/badge/Applied_Mathematics-6f42c1?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Applied Mathematics"/>&nbsp;
 </p>
+
+---
+
+## 🛠️ Technical Stack
 
 <!-- Programming Languages -->
 <p align="center">
