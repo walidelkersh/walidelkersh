@@ -1,16 +1,16 @@
 name: Generate Euler Graph
 
 on:
-  issues:
-    types: [opened]
+  schedule:
+    # Run every 12 hours (at 00:00 and 12:00 UTC)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab in GitHub UI
 
 jobs:
   update-graph:
-    if: startsWith(github.event.issue.title, 'generate-graph')
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      issues: write
     
     steps:
       - name: Checkout Repository
@@ -34,8 +34,3 @@ jobs:
           git add README.md euler_graph.png
           git commit -m "Auto-generated new planar graph [skip ci]" || exit 0
           git push
-          
-      - name: Close Issue
-        run: gh issue close ${{ github.event.issue.number }} --comment "New graph generated! 🚀 Check the README."
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

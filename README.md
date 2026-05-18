@@ -45,13 +45,6 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
   <h2 align="center"> $$12 - 24 + 14 = 2$$ </h2>
   <!-- MATH_END -->
   <img src="euler_graph.png" alt="Dynamic Planar Graph" width="500" />
-  
-  <br/>
-  <br/>
-  
-  <a href="https://github.com/Doublew08/Doublew08/issues/new?title=generate-graph&body=Just+click+Submit+New+Issue+to+trigger+the%20GitHub+Action+and+generate+a+new+planar+graph!">
-    <img src="https://img.shields.io/badge/Generate%20New%20Graph-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Generate New Graph" />
-  </a>
 </div>
 
 ---
