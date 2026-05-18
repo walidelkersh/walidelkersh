@@ -29,9 +29,9 @@
 ---
 
 ## 👋 About Me
-- 🌌 **Computational Mathematician & Game Developer** focused on advanced systems, probability, and rigorous logic.
-- 🎰 Developed high-performance **Monte Carlo simulation engines** and stochastic models to validate game mathematics.
-- 🍃 Formalizing complex **graph theory and combinatorial proofs** using the **Lean 4** interactive theorem prover.
+- 🔭 I’m currently working on high-performance computational systems and mathematical algorithms.
+- 🌱 I’m currently exploring interactive theorem proving, graph theory, and advanced stochastic modeling.
+- 💬 Ask me about probability theory, game mathematics, or systems programming in C++ / C#.
 - 🎓 B.A. in Mathematics & CS Minor from **Wabash College**.
 
 ---
@@ -51,12 +51,6 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
     <img src="https://img.shields.io/badge/Generate%20New%20Graph-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Generate New Graph" />
   </a>
 </div>
-
----
-
-## 💻 Featured Systems
-* 🧮 **Formal Proof Verification:** Formalizing complex mathematical theorems and combinatorial conjectures using the Lean 4 interactive theorem prover.
-* 🎰 **Monte Carlo Simulation Engine:** Built a high-performance simulation engine in Python and C# running millions of iterations to validate return-to-player (RTP) convergence, volatility, and statistical correctness.
 
 ---
 
