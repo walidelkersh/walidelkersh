@@ -65,13 +65,15 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>&nbsp;
+  <img src="https://img.shields.io/badge/Lean_4-563D7C?style=for-the-badge&logo=leanpub&logoColor=white" alt="Lean 4"/>&nbsp;
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>&nbsp;
   <img src="https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white" alt="Mathematica"/>&nbsp;
 </p>
 
 <!-- Tools & Platforms -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Lean_4-563D7C?style=for-the-badge&logo=leanpub&logoColor=white" alt="Lean 4"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;
   <img src="https://img.shields.io/badge/Unity_Engine-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>&nbsp;
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>&nbsp;
