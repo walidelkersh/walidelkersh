@@ -41,7 +41,9 @@
 In graph theory, elegance is everything. My absolute favorite mathematical truth is **Euler's Formula** for planar graphs. No matter how complex a network gets, as long as no edges cross, the relationship between its Vertices ($V$), Edges ($E$), and Faces ($F$) remains perfectly unbroken:
 
 <div align="center">
-  <h2 align="center"> $$V - E + F = 2$$ </h2>
+  <!-- MATH_START -->
+  <h2 align="center"> $$12 - 21 + 11 = 2$$ </h2>
+  <!-- MATH_END -->
   <img src="euler_graph.png" alt="Dynamic Planar Graph" width="500" />
   
   <br/>

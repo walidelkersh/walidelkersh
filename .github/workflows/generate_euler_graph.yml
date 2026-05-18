@@ -1,0 +1,41 @@
+name: Generate Euler Graph
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-graph:
+    if: startsWith(github.event.issue.title, 'generate-graph')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install Dependencies
+        run: pip install networkx matplotlib scipy numpy
+          
+      - name: Run Graph Generator
+        run: python euler_graph.py
+          
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md euler_graph.png
+          git commit -m "Auto-generated new planar graph [skip ci]" || exit 0
+          git push
+          
+      - name: Close Issue
+        run: gh issue close ${{ github.event.issue.number }} --comment "New graph generated! 🚀 Check the README."
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
