@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,100:6366f1&text=Walid%20Kasab&fontAlign=50&fontAlignY=35&fontSize=48&desc=Mathematician%20•%20Game%20Developer%20•%20Researcher&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,100:6366f1&text=Walid%20K.%20Elkersh&fontAlign=50&fontAlignY=35&fontSize=48&desc=Mathematician%20•%20Game%20Developer%20•%20Researcher&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
 </div>
 
 <!-- Social + Counters -->
