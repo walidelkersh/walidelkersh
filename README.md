@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,100:6366f1&text=Walid%20K.%20Elkersh&fontAlign=50&fontAlignY=35&fontSize=48&desc=Mathematician%20•%20Game%20Developer%20•%20Researcher&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:36BCF7,100:6366f1&text=Walid%20K.%20Elkersh&fontAlign=50&fontAlignY=35&fontSize=48&desc=Mathematician%20%26%20Software%20Engineer&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
 </div>
 
 <!-- Social + Counters -->
@@ -15,7 +15,7 @@
 <!-- Animated Typing Tagline -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Mathematics+%26+CS;Game+Development+%26+Design;Combinatorics+%26+Graph+Theory" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Mathematics+%26+CS;Software+Engineering;Combinatorics+%26+Graph+Theory" alt="Typing SVG" />
   </a>
 </div>
 
