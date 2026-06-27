@@ -5,11 +5,11 @@
 
 <!-- Social + Counters -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/walid-kasab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="https://walidkelkersh.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-10b981?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/Doublew08?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Doublew08?style=for-the-badge&color=6366f1&label=Followers"></a>&nbsp;
-  <a href="https://github.com/Doublew08"><img alt="Stars" src="https://img.shields.io/github/stars/Doublew08?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8A2BE2&label=Stars"></a>&nbsp;
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Doublew08&style=for-the-badge&color=6f42c1">
+  <a href="https://www.linkedin.com/in/walidelkersh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://walidelkersh.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-10b981?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/walidelkersh?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/walidelkersh?style=for-the-badge&color=6366f1&label=Followers"></a>&nbsp;
+  <a href="https://github.com/walidelkersh"><img alt="Stars" src="https://img.shields.io/github/stars/walidelkersh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8A2BE2&label=Stars"></a>&nbsp;
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=walidelkersh&style=for-the-badge&color=6f42c1">
 </p>
 
 <!-- Animated Typing Tagline -->
@@ -35,7 +35,7 @@
 In graph theory, elegance is everything. My absolute favorite mathematical truth is **Euler's Formula** for planar graphs. No matter how complex a network gets, as long as no edges cross, the relationship between its Vertices ($V$), Edges ($E$), and Faces ($F$) remains perfectly unbroken:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Doublew08/Doublew08/graph-assets/euler_graph.png" alt="Dynamic Planar Graph" width="500" />
+  <img src="https://raw.githubusercontent.com/walidelkersh/Doublew08/graph-assets/euler_graph.png" alt="Dynamic Planar Graph" width="500" />
 </div>
 
 ---
@@ -67,7 +67,7 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
 ## 🏆 Trophies
 <div align="center">
   <img alt="GitHub Trophies"
-       src="https://github-profile-trophy-fork-two.vercel.app/?username=Doublew08&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+       src="https://github-profile-trophy-fork-two.vercel.app/?username=walidelkersh&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 </div>
 
 ---
@@ -78,14 +78,14 @@ In graph theory, elegance is everything. My absolute favorite mathematical truth
     <tr>
       <td>
         <img height="160" alt="Top Languages"
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Doublew08&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&hide=shaderlab,hlsl" />
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walidelkersh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&hide=shaderlab,hlsl" />
       </td>
     </tr>
   </table>
 
   <!-- Activity Graph -->
   <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Doublew08&theme=react-dark&hide_border=true&area=true" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=walidelkersh&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
