@@ -51,7 +51,7 @@ Mathematician & Software Engineer with deep roots in pure mathematics
 and a passion for building software at the intersection of theory and practice.
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎓 &nbsp;**Mathematics Graduate** with double minor in **Computer Science** & **Film & Digital Media Studies** — **Wabash College**
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 &nbsp;**Mathematics Graduate** with double minor in **Computer Science** & **Film & Digital Media Studies** — **<img src="wabash_logo.png" height="14" style="vertical-align: middle;" /> Wabash College**
 
 &nbsp;&nbsp;&nbsp;&nbsp;🧮 &nbsp;Deep interest in **Combinatorics**, **Graph Theory**, and **Theory of Computation**
 
@@ -202,12 +202,12 @@ $$V - E + F = 2$$
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=walidelkersh&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=a78bfa&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=walidelkersh&hide_border=true&background=00000000&stroke=6366f1&ring=8b5cf6&fire=a855f7&currStreakLabel=8b5cf6&sideLabels=a78bfa&dates=6366f1&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=walidelkersh&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=walidelkersh&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidelkersh&layout=compact&hide_border=true&langs_count=8&title_color=8b5cf6&text_color=c9d1d9&bg_color=00000000&hide=shaderlab,hlsl" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walidelkersh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&hide=shaderlab,hlsl" alt="Top Languages" />
 
 </div>
 
@@ -222,7 +222,7 @@ $$V - E + F = 2$$
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=walidelkersh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=walidelkersh&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -236,7 +236,7 @@ $$V - E + F = 2$$
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=walidelkersh&bg_color=00000000&color=8b5cf6&line=6366f1&point=a855f7&area=true&area_color=4338ca&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=walidelkersh&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
 </div>
 
 <br/>
