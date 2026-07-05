@@ -71,6 +71,14 @@ $$V - E + F = 2$$
 
 ---
 
+## 🏆 Trophies
+<div align="center">
+  <img alt="GitHub Trophies"
+       src="https://github-profile-trophy-nine-umber.vercel.app/?username=walidelkersh&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
 
