@@ -5,7 +5,7 @@
 <!-- ══════════════════ 1. ANIMATED HEADER SECTION ══════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4338ca,50:6366f1,100:a855f7&text=Walid%20Elkersh&fontAlign=50&fontAlignY=30&fontSize=52&desc=Mathematician%20%26%20Software%20Engineer&descAlign=50&descAlignY=55&fontColor=ffffff&descSize=20&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4338ca,100:a855f7&text=Walid%20Elkersh&fontAlign=50&fontAlignY=35&fontSize=48&desc=Mathematician%20%26amp;%20Software%20Engineer&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
 </div>
 
 <div align="center">
@@ -307,5 +307,5 @@ exploring:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4338ca,50:6366f1,100:a855f7&fontColor=ffffff" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4338ca,100:a855f7&fontColor=ffffff" alt="footer" />
 </div>
