@@ -28,7 +28,7 @@
 - 🧮 Deep interest in **Combinatorics, Graph Theory, and Theory of Computation**.
 - 🎮 Passionate about **Game Development, Human-Computer Interaction, and Computer Graphics**.
 - 🔬 Exploring **Formal Verification** with the **Lean 4** theorem prover.
-- 🤖 Working with **TensorFlow** and **OpenCV** for machine learning and computer vision.
+- 🎲 Building game mechanics straight from **graph theory, geometry, and probability**, turning mathematical structure into play.
 
 ---
 
@@ -41,7 +41,7 @@ $$V - E + F = 2$$
 <div align="center">
   <img src="https://raw.githubusercontent.com/walidelkersh/walidelkersh/graph-assets/euler_graph.png" alt="Dynamic Planar Graph" width="500" />
   <br/>
-  <sub><i>Dynamically generated every hour via GitHub Actions — each refresh produces a unique planar graph</i></sub>
+  <sub><i>Regenerated every hour via GitHub Actions. Each refresh produces a unique planar graph.</i></sub>
 </div>
 
 ---
@@ -74,20 +74,20 @@ $$V - E + F = 2$$
 <div align="center">
 
   <img height="170" alt="GitHub Stats"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=walidelkersh&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=walidelkersh&show_icons=true&count_private=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&hide_border=true" />
   <img height="170" alt="GitHub Streak"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=walidelkersh&theme=midnight-purple&hide_border=true" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=walidelkersh&background=0d1117&border=0d1117&ring=36BCF7&fire=36BCF7&currStreakNum=c9d1d9&sideNums=36BCF7&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e&hide_border=true" />
 
   <br/><br/>
 
   <img height="160" alt="Top Languages"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walidelkersh&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&hide=shaderlab,hlsl" />
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walidelkersh&layout=compact&langs_count=8&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&hide_border=true&hide=shaderlab,hlsl" />
 
   <br/><br/>
 
   <!-- Activity Graph -->
   <img alt="Activity Graph"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=walidelkersh&theme=react-dark&hide_border=true&area=true" />
+       src="https://github-readme-activity-graph.vercel.app/graph?username=walidelkersh&bg_color=0d1117&color=c9d1d9&line=36BCF7&point=6366f1&area=true&area_color=36BCF7&hide_border=true" />
 </div>
 
 ---
