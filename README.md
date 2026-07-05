@@ -28,7 +28,7 @@
 - 🧮 Deep interest in **Combinatorics, Graph Theory, and Theory of Computation**.
 - 🎮 Passionate about **Game Development, Human-Computer Interaction, and Computer Graphics**.
 - 🔬 Exploring **Formal Verification** with the **Lean 4** theorem prover.
-- 🎲 Building game mechanics straight from **graph theory, geometry, and probability**, turning mathematical structure into play.
+- 🎰 Designing the math behind games of chance: **RTP models, volatility profiles, hit frequency, paytables, and Monte Carlo simulation**.
 
 ---
 
@@ -106,6 +106,7 @@ $$V - E + F = 2$$
 
 ```yaml
 learning:
+  - Game Mathematics (RTP modeling, volatility, paytable simulation)
   - Automated Reasoning & Proof Assistants (Lean 4)
   - Advanced Graph Theory & Combinatorial Algorithms
 
