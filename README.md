@@ -29,6 +29,7 @@
 - 🎮 Passionate about **Game Development, Human-Computer Interaction, and Computer Graphics**.
 - 🔬 Exploring **Formal Verification** with the **Lean 4** theorem prover.
 - 🎰 Designing the math behind games of chance: **RTP models, volatility profiles, hit frequency, paytables, and Monte Carlo simulation**.
+- 🌐 Full project write-ups, demos, and interactive experiments live at **[walidelkersh.vercel.app](https://walidelkersh.vercel.app)**.
 
 ---
 
@@ -96,16 +97,16 @@ $$V - E + F = 2$$
 <div align="center">
 
   <img width="49%" alt="Profile Details"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidelkersh&theme=tokyonight" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidelkersh&theme=nord_dark" />
   <img width="32.5%" alt="Productive Time"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidelkersh&theme=tokyonight&utcOffset=3" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidelkersh&theme=nord_dark&utcOffset=-10" />
 
   <br/>
 
   <img width="32.5%" alt="Repos per Language"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidelkersh&theme=tokyonight" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidelkersh&theme=nord_dark" />
   <img width="32.5%" alt="Most Commit Language"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidelkersh&theme=tokyonight" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidelkersh&theme=nord_dark" />
 
 </div>
 
