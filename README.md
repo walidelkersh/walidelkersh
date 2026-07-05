@@ -92,6 +92,25 @@ $$V - E + F = 2$$
 
 ---
 
+## 🧬 Contribution Breakdown
+<div align="center">
+
+  <img width="49%" alt="Profile Details"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walidelkersh&theme=tokyonight" />
+  <img width="32.5%" alt="Productive Time"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=walidelkersh&theme=tokyonight&utcOffset=3" />
+
+  <br/>
+
+  <img width="32.5%" alt="Repos per Language"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=walidelkersh&theme=tokyonight" />
+  <img width="32.5%" alt="Most Commit Language"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=walidelkersh&theme=tokyonight" />
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 <div align="center">
   <picture>
