@@ -155,7 +155,7 @@ exploring:
 <div align="center">
   <i>"From Königsberg to König’s book,<br>
 So runs the graphic tale.<br>
-And still it grows more colorful …" - Blanche Descartes (1969)</i>
+And still it grows more colorful …"<br> - Blanche Descartes (1969)</i>
 </div>
 
 <br/>
