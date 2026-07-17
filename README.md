@@ -153,7 +153,9 @@ exploring:
 
 <!-- Favorite Math Quote -->
 <div align="center">
-  <i>"Mathematics is the language in which God has written the universe." - Galileo Galilei</i>
+  <i>"From Königsberg to König’s book,
+So runs the graphic tale.
+And still it grows more colorful …" - Blanche Descartes (1969)</i>
 </div>
 
 <br/>
