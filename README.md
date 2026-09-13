@@ -29,7 +29,7 @@
 - 🎮 Passionate about **Game Development, Human-Computer Interaction, and Computer Graphics**.
 - 🔬 Exploring **Formal Verification** with the **Lean 4** theorem prover.
 - 🎰 Designing the math behind games of chance: **RTP models, volatility profiles, hit frequency, paytables, and Monte Carlo simulation**.
-- 🌐 Full project write-ups, demos, and interactive experiments live at **[walidelkersh.vercel.app](https://walidelkersh.vercel.app)**.
+- 🌐 Full project write-ups, demos, and interactive experiments live at **[elkersh.is-a.dev](elkersh.is-a.dev)**.
 
 ---
 
